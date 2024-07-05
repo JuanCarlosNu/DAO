@@ -36,7 +36,7 @@ public class Dentist {
         this.registration = registration;
     }
 
-    public String getMame() {
+    public String getName() {
         return mame;
     }
 
